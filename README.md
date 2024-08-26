@@ -1,17 +1,14 @@
-<img src="./src/assets/circles.png" height="250px" align="right"/>
+<h1 align="center">Book Exchange Platform</h1>
 
-<h1 align="center">BOOK Ecommerce STORE USING REACTJS </h1>
+
 
 
 # BOOK Shop Description
-    Book Shop is an online React web application where the customer can purchase books online.
-    Through this book store the users can search for a book by its title and
-    later can add to the shopping cart and finally purchase using credit card transaction.
+    The Book Exchange Platform is a web application that allows users to create an account, list books they want to exchange, and find matches with other users 
+    who have books they are interested in. This platform aims to connect book enthusiasts and facilitate the exchange of books in a simple and user-friendly manner.
     
- ##   [Live App Demo](https://akshatbookstore.netlify.app/)
  
- 
- ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
+
 
 # Tools Used
 
@@ -48,24 +45,14 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Rajat Nagar </code>
 </h3>
-  <p align="center"> 
-
-  <a href="https://github.com/Akshatjalan">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://www.instagram.com/akshatxjalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
-  </a>
-    <a href="mailto:jalanakshat2@gmail.com">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
-  </a>
-
+<p align="center">
+    <a href="mailto:rajatnagar7893@gmail.com" target="_blank" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rajat-nagar/" target="_blank" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/rajat705" target="_blank" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub" width="20" height="20"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/_rajatnagar_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20"></a>
 </p>
-
